@@ -1,0 +1,11 @@
+{
+	"id": "obsidian-mermaid-pan-and-zoom-plugin",
+	"name": "Obsidian Mermaid Pan and Zoom Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "1.8.9",
+	"description": "Plugin for Obsidian mermaid snippets to pan and zoom.",
+	"author": "Marco Umpiérrez",
+	"authorUrl": "https://github.com/MarcoUmpierrez",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}
