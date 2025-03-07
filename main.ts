@@ -1,5 +1,5 @@
 import { Plugin } from 'obsidian';
-import * as svgPanZoom from 'svg-pan-zoom';
+import svgPanZoom from 'svg-pan-zoom';
 
 export default class MermaidZoomPlugin extends Plugin {
 	async onload() {
