@@ -15,12 +15,12 @@ Obsidian plugin for MermaidJS diagrams that adds pan and zoom features. `svg-pan
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/MarcoUmpierrez/ObsidianMermaidPanAndZoom.git
+   git clone https://github.com/MarcoUmpierrez/obsidian-mermaid-pan-and-zoom.git
    ```
 
 2. Navigate to the plugin directory:
    ```bash
-   cd ObsidianMermaidPanAndZoom
+   cd obsidian-mermaid-pan-and-zoom
    ```
 
 3. Install the required dependencies:
